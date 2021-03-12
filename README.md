@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rajat1411
+- 👋 Hi, I’m Rajat Srivastava (cyb3r-v3nom)
 - 👀 I’m interested in cyber security and hacking related stuff.
 - 🌱 I’m currently learning vulnerabilities and exploiting the flaws in web application.
 - 💞️ I’m looking to collaborate with people of my feild intrested in doing stuff together.
